@@ -62,7 +62,7 @@ class TaskController extends Controller
     public function complete($id)
     {
         $task = Task::find($id);
-        $task->completed = 1;
+        $task->completed = !$task->completed;
         $task->save();
         return redirect()->route('tasks.index');
     }

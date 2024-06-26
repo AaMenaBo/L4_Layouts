@@ -33,7 +33,6 @@
                     <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="#">Inicio</a>
                     <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="#">Nosotros</a>
                     <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="#">Soporte</a>
-
                 </nav>
             </div>
 
